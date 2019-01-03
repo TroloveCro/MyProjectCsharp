@@ -1,0 +1,14 @@
+D:\RAGEMP\server-files\bridge\resources\MyProject\bin\Debug\netcoreapp2.1\MyProject.deps.json
+D:\RAGEMP\server-files\bridge\resources\MyProject\bin\Debug\netcoreapp2.1\MyProject.dll
+D:\RAGEMP\server-files\bridge\resources\MyProject\bin\Debug\netcoreapp2.1\MyProject.pdb
+D:\RAGEMP\server-files\bridge\resources\MyProject\obj\Debug\netcoreapp2.1\MyProject.csproj.CoreCompileInputs.cache
+D:\RAGEMP\server-files\bridge\resources\MyProject\obj\Debug\netcoreapp2.1\MyProject.AssemblyInfoInputs.cache
+D:\RAGEMP\server-files\bridge\resources\MyProject\obj\Debug\netcoreapp2.1\MyProject.AssemblyInfo.cs
+D:\RAGEMP\server-files\bridge\resources\MyProject\obj\Debug\netcoreapp2.1\MyProject.dll
+D:\RAGEMP\server-files\bridge\resources\MyProject\obj\Debug\netcoreapp2.1\MyProject.pdb
+D:\RAGEMP\server-files\bridge\resources\MyProject\comp\netcoreapp2.1\MyProject.deps.json
+D:\RAGEMP\server-files\bridge\resources\MyProject\comp\netcoreapp2.1\MyProject.dll
+D:\RAGEMP\server-files\bridge\resources\MyProject\comp\netcoreapp2.1\MyProject.pdb
+D:\RAGEMP\server-files\bridge\resources\MyProject\compiled\netcoreapp2.1\MyProject.deps.json
+D:\RAGEMP\server-files\bridge\resources\MyProject\compiled\netcoreapp2.1\MyProject.dll
+D:\RAGEMP\server-files\bridge\resources\MyProject\compiled\netcoreapp2.1\MyProject.pdb

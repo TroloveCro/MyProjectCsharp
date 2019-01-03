@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+<TargetFramework>netcoreapp2.1</TargetFramework>
+</PropertyGroup>
+<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+  <OutputPath>compiled\</OutputPath>
+  <DocumentationFile></DocumentationFile>
+</PropertyGroup>
+<ItemGroup>
+<PackageReference Include="gtanetwork.api" Version="0.3.6" />
+</ItemGroup>
+</Project>

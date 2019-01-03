@@ -1,0 +1,5 @@
+<meta>
+ <info name="MyProject" type="script" />
+<script src="compiled/netcoreapp2.1/MyProject.dll" />
+
+</meta>
